@@ -1,0 +1,176 @@
+/* 
+   main A - Slonce
+                   */
+P.main_t1
+{
+color: #c7c7c7;
+Font-Size: 9pt;
+Font-Family: 'Arial', Verdana, Courier;
+Font-Style: normal;
+Font-Weight: normal;
+Text-Align: justify;
+}
+P.main_t1c
+{
+color: #c7c7c7;
+Font-Size: 9pt;
+Font-Family: 'Arial', Verdana, Courier;
+Font-Style: normal;
+Font-Weight: normal;
+Text-Align: center;
+}
+P.main_t1r
+{
+color: #c7c7c7;
+Font-Size: 9pt;
+Font-Family: 'Arial', Verdana, Courier;
+Font-Style: normal;
+Font-Weight: normal;
+Text-Align: right;
+}
+
+P.main_t2
+{
+color: #000000;
+Font-Size: 10pt;
+Font-Family: 'tahoma', Arial, Verdana, Courier;
+Font-Style: normal;
+Font-Weight: normal;
+Text-Align: justify;
+line-height: 120%;
+}
+P.main_t1tresc
+{
+color: #000000;
+Font-Size: 10pt;
+Font-Family: 'tahoma', Arial, Verdana, Courier;
+Font-Style: normal;
+Font-Weight: normal;
+Text-Align: justify;
+line-height: 120%;
+}
+P.main_t1kontakt
+{
+color: #000000;
+Font-Size: 10pt;
+Font-Family: 'tahoma', Arial, Verdana, Courier;
+Font-Style: normal;
+Font-Weight: normal;
+Text-Align: justify;
+}
+P.main_t2m
+{
+color: #000000;
+Font-Size: 8pt;
+Font-Family: 'tahoma', Arial, Verdana, Courier;
+Font-Style: normal;
+Font-Weight: normal;
+Text-Align: justify;
+}
+
+P.produkty
+{
+color: #000000;
+Font-Size: 10pt;
+Font-Family: 'tahoma', Arial, Verdana, Courier;
+Font-Style: normal;
+Font-Weight: normal;
+Text-Align: justify;
+}
+h1
+{
+color: #000000;
+Font-Size: 14pt;
+Font-Family: 'tahoma', Arial, Verdana, Courier;
+Font-Style: normal;
+Font-Weight: normal;
+Text-Align: justify;
+}
+
+P.main_t1ckont
+{
+color: #000000;
+Font-Size: 10pt;
+Font-Family: 'tahoma', Arial, Verdana, Courier;
+Font-Style: normal;
+Font-Weight: normal;
+Text-Align: center;
+}
+P.main_stopka
+{
+color: #FFFFFF;
+Font-Size: 10pt;
+Font-Family: 'tahoma', Arial, Verdana, Courier;
+Font-Style: normal;
+Font-Weight: normal;
+Text-Align: center;
+}
+
+A:link	      { color: #dfc183;
+Font-Size: 10pt;
+Font-Family: 'tahoma', Arial, Verdana, Courier;
+Font-Style: normal;
+Font-Weight: lighter;
+text-decoration: none;
+line-height: 150%; }
+/*A:active      { color: #000000;
+				text-decoration: none } */
+A:visited     { color: #dfc183;
+				Font-Size: 10pt;
+Font-Family: 'tahoma', Arial, Verdana, Courier;
+Font-Style: normal;
+Font-Weight: lighter;
+text-decoration: none;
+line-height: 150% ;}
+
+A:hover       { color: #FFFFFF;
+Font-Size: 10pt;
+Font-Family: 'tahoma', Arial, Verdana, Courier;
+Font-Style: normal;
+Font-Weight: lighter;
+line-height: 150% ;
+text-decoration: underline; }
+
+A:link.m	      { color: #003684;
+Font-Size: 8pt;
+Font-Family: 'tahoma', Arial, Verdana, Courier;
+Font-Style: normal;
+Font-Weight: lighter;
+text-decoration: none; }
+/*A:active      { color: #000000;
+				text-decoration: none } */
+A:visited.m    { color: #003684;
+Font-Size: 8pt;
+Font-Family: 'tahoma', Arial, Verdana, Courier;
+Font-Style: normal;
+Font-Weight: lighter;
+text-decoration: none; }
+
+A:hover.m       { color: #000000;
+Font-Size: 8pt;
+Font-Family: 'tahoma', Arial, Verdana, Courier;
+Font-Style: normal;
+Font-Weight: lighter;
+text-decoration: underline; }
+
+A:link.norm	      { color: #d10000;
+Font-Size: 10pt;
+Font-Family: 'tahoma', Arial, Verdana, Courier;
+Font-Style: normal;
+Font-Weight: lighter;
+text-decoration: none; }
+/*A:active      { color: #000000;
+				text-decoration: none } */
+A:visited.norm    { color: #d10000;
+				Font-Size: 10pt;
+Font-Family: 'tahoma', Arial, Verdana, Courier;
+Font-Style: normal;
+Font-Weight: lighter;
+text-decoration: none; }
+
+A:hover.norm       { color: #000000;
+Font-Size: 10pt;
+Font-Family: 'tahoma', Arial, Verdana, Courier;
+Font-Style: normal;
+Font-Weight: lighter;
+text-decoration: underline; }
